@@ -1,6 +1,3 @@
 hello miranda!
-<<<<<<< HEAD
 It's spring time haha
-=======
 "Grenade" comes from the French word for "pomegranate"
->>>>>>> 8448d22cab8607391b93d4aae3d1faf3db461227
